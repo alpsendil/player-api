@@ -28,16 +28,30 @@ aardsda01,1981,12,27,USA,CO,Denver,,,,,,,David,Aardsma,David Allan,215,75,R,R,20
 The json representation of a player should be the following, where each field name is equal to the CSV column name:
 ```json
 {
-    "playerID": "aardsda01",
-    "birthYear": 1981,
-    "birthMonth": 12,
-    "birthDay": 27,
-    "deathYear": null,
-    "deathMonth": null,
-    "deathDay": null,
-    "nameFirst": "David",
-    "nameLast": "Aardsma",
-    "height": 75
+  "playerID":"aaronha01",
+	"birthYear":1934,
+	"birthMonth":2,
+	"birthDay":5,
+	"birthCountry":"USA",
+	"birthState":"AL",
+	"birthCity":"Mobile",
+	"deathYear":0,
+	"deathMonth":0,
+	"deathDay":0,
+	"deathCountry":"",
+	"deathState":"",
+	"deathCity":"",
+	"nameFirst":"Hank",
+	"nameLast":"Aaron",
+	"nameGiven":"Henry Louis",
+	"weight":180,
+	"height":72,
+	"bats":"R",
+	"bbthrows":"R",
+	"debut":"1954-04-13",
+	"finalGame":"1976-10-03",
+	"retroID":"aaroh101",
+	"bbrefID":"aaronha01"
 }
 ```
 
