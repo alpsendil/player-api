@@ -32,3 +32,11 @@ build/
 ### VS Code ###
 .vscode/
 maven-wrapper.jar
+/logs/application.log
+/logs/2020-11/spring-boot-logger-log4j2--12-November-2020-1.log.gz
+/logs/2020-11/spring-boot-logger-log4j2--12-November-2020-2.log.gz
+/logs/2020-11/spring-boot-logger-log4j2--12-November-2020-3.log.gz
+/logs/2020-11/spring-boot-logger-log4j2--12-November-2020-4.log.gz
+/logs/2020-11/spring-boot-logger-log4j2--12-November-2020-5.log.gz
+/logs/2020-11/spring-boot-logger-log4j2--12-November-2020-6.log.gz
+/logs/2020-11/spring-boot-logger-log4j2--12-November-2020-7.log.gz

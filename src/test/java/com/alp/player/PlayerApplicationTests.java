@@ -5,9 +5,10 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class PlayerApplicationTests {
-
+	/**
+	 * validate that Spring context loads
+	 */
 	@Test
 	void contextLoads() {
 	}
-
 }
