@@ -26,7 +26,7 @@ aardsda01,1981,12,27,USA,CO,Denver,,,,,,,David,Aardsma,David Allan,215,75,R,R,20
 ```
 
 The json representation of a player should be the following, where each field name is equal to the CSV column name:
-#```json
+```json
 {
     "playerID": "aardsda01",
     "birthYear": 1981,
@@ -39,7 +39,7 @@ The json representation of a player should be the following, where each field na
     "nameLast": "Aardsma",
     "height": 75
 }
-#```
+```
 
 ## Bonus Requirements:
 
